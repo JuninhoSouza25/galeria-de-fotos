@@ -1,9 +1,17 @@
+
 # Galera de fotos com Javascript
 
 Esse projeto consiste em testar tecnicas de Javascript criando uma galeria de fotos interativa. 
 
 
-<img align="center" alt="Juninho-Js" height="300" width="450" src="https://github.com/JuninhoSouza25/galeria-de-fotos/blob/main/assets/img/print.JPG">
+
+<center>
+
+![Print da galeria de fotos](https://github.com/JuninhoSouza25/galeria-de-fotos/blob/main/assets/img/print.JPG)
+
+</center>
+
+
 
 ### Tecnologias
   
