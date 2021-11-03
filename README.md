@@ -3,6 +3,8 @@
 Esse projeto consiste em testar tecnicas de Javascript criando uma galeria de fotos interativa. 
 
 
+<img align="center" alt="Juninho-Js" height="30" width="40" src="assets/img/print.jpg">
+
 ### Tecnologias
   
 <div style="display: inline_block"><br>
